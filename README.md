@@ -2,7 +2,7 @@
 
 Welcome to my Weather App repository! 🌦️
 
-As a beginner in Java programming, this Weather App represents my first hands-on experience in implementing an API using Java.
+This Weather App represents my first hands-on experience in implementing an API using Java.
 
 # What does the Weather App do?
 
